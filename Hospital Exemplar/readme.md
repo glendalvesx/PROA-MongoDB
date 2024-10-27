@@ -1,4 +1,4 @@
-# **🏨 HOSPITAL EXEMPLAR**
+# **🏥 HOSPITAL EXEMPLAR**
 
 ### **📌 Objetivo:** Criar uma modelagem de banco de dados para o gerenciamento hospitalar. A estrutura foi projetada para armazenar informações sobre médicos, pacientes, consultas, convênios, receitas médicas e outros dados relevantes.
 
